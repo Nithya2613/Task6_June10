@@ -1,1 +1,1 @@
-# Task6_June10
+This project performs sales trend analysis using SQL in MySQL Workbench. It extracts month and year from order dates, calculates total monthly revenue and order volume, and groups the results accordingly. The analysis helps identify performance trends over time by using aggregate functions and filtering specific date ranges. The final output is sorted chronologically for clear insight.
